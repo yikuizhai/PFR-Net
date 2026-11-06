@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/printlambda.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/train_cleanft.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/train_configs.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/616.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/v8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yoloe-v8-seg.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yoloe-v8.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-cls-resnet101.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-cls-resnet50.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-cls.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-ghost-p2.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-ghost-p6.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-ghost.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-obb.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-p2.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-p6.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-pose-p6.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-pose.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-rtdetr.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-seg-p6.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-seg.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-world.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8-worldv2.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ultralytics/cfg/models/v8/yolov8.yaml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/val.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/val/test/Vis-XR1/paper_data.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/val/test/Vis-yolov8-416s/paper_data.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/val/test/Vis-yolov8n/paper_data.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/val/test/Vis-yolov8s/paper_data.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/val/test/Vis_yolov8-424/paper_data.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/val/test/Vis_yolov8-427/paper_data.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/val/test/Vis_yolov8-511XR/paper_data.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/散点图.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
